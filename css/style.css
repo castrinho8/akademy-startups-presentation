@@ -329,6 +329,11 @@ pre {
 }
 
 .secondary-color {
-   color: black;
+   color: black !important;
    background-color:white;
+}
+
+.text-small {
+  font-size: 20px !important;
+  font-weight: 100 !important;
 }
